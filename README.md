@@ -1,10 +1,20 @@
 <h1 align="center">Hello world!</h1>
 <!-- ABOUT YOU -->
+<div>
+<div style="text-align:center">
+Data Engineer building ETL pipelines, data infrastructure, and ML deployment systems. I orchestrate workflows with Airflow, automate infrastructure with Terraform, and work with streaming and batch processing systems. I enjoy tackling technical challenges around pipeline reliability, performance optimization, system integration, and productionizing machine learning models. Always learning new technologies and sharing knowledge with the data engineering community.
+<br/> <br/>
 
-<div align="center" style="text-align:center">
-I'm a Data Engineer with 5 years of experience in software development, building ETL pipelines, crafting event streaming apps, and creating big data architectures. I'm all about using my skills to help push forward the latest tech, whether it's at work or through open-source projects in my free time. I'm always up for a challenge and want to keep learning to expand my skill set.
-<br/><br/>
-<img src="./img.jpg" />
+<!-- STATS -->
+<img src="https://github-readme-stats.vercel.app/api?username=LuigiCerone&count_private=true&show_icons=true&theme=dark&locale=en" alt="LuigiCerone" />
+<br/>
+<br/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=LuigiCerone&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,php,html&langs_count=3" alt="LuigiCerone" />
+</div>
+
+</div>
+<br style="clear:both;"/>
 
 <!-- CONNECTION -->
 <hr/>      
