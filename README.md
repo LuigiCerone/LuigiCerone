@@ -5,14 +5,6 @@
 Data Engineer building ETL pipelines, data infrastructure, and ML deployment systems. I orchestrate workflows with Airflow, automate infrastructure with Terraform, and work with streaming and batch processing systems. I enjoy tackling technical challenges around pipeline reliability, performance optimization, system integration, and productionizing machine learning models. Always learning new technologies and sharing knowledge with the data engineering community.
 <br/> <br/>
 
-<!-- STATS -->
-<img src="https://github-readme-stats.vercel.app/api?username=LuigiCerone&count_private=true&show_icons=true&theme=dark&locale=en" alt="LuigiCerone" />
-<br/>
-<br/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=LuigiCerone&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,php,html&langs_count=3" alt="LuigiCerone" />
-</div>
-
 </div>
 <br style="clear:both;"/>
 
